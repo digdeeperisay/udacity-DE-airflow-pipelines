@@ -1,0 +1,1 @@
+Using Airflow to orchestrate a data pipeline that loads two sets of JSON files (song data and log data) into a star schema in Redshift. We use staging tables as a placeholder and execute the whole pipeline via a DAG in Airflow.
