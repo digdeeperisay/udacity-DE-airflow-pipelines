@@ -5,6 +5,3 @@ udac_example_dag.py is the starting point of the program and calls the necessary
 All other python files are the operators themselves.
 
 The fully constructed DAG is shown below - 
-
-
-
